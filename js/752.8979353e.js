@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkantd_demo"]=self["webpackChunkantd_demo"]||[]).push([[752],{56752:function(t,n,e){e.r(n),e.d(n,{default:function(){return c}});var u=function(){var t=this;t._self._c;return t._m(0)},r=[function(){var t=this,n=t._self._c;return n("div",[n("h1",[t._v("내 소개를 하자면...🤢")]),n("div",{staticStyle:{height:"200px",background:"pink"}})])}],a={name:"About",data(){return{}},mounted(){},methods:{}},d=a,i=e(81656),s=(0,i.A)(d,u,r,!1,null,"36b4de51",null),c=s.exports}}]);
+//# sourceMappingURL=752.8979353e.js.map

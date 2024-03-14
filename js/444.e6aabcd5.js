@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkantd_demo"]=self["webpackChunkantd_demo"]||[]).push([[444],{87444:function(e,n,t){t.r(n),t.d(n,{default:function(){return s}});var u=function(){var e=this,n=e._self._c;return n("div",[n("router-view")],1)},a=[],r={name:"BlankLayout",data(){return{}},mounted(){},methods:{}},d=r,o=t(81656),l=(0,o.A)(d,u,a,!1,null,"a3990f16",null),s=l.exports}}]);
+//# sourceMappingURL=444.e6aabcd5.js.map
